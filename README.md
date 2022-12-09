@@ -1,12 +1,12 @@
-# Base 
-Build on the top of [Le Wagon React boilerplate](https://github.com/lewagon/react-boilerplate).
+# Giphy Search 
+Built on the top of [Le Wagon React boilerplate](https://github.com/lewagon/react-boilerplate).
 
-# Workshop
+## Workshop
 Guided by the [Le Wagon React Workshop](https://github.com/yannklein/react-workshop).
 
-# Demo
+## Demo
 
-https://yannklein.github.io/react-workshop/
+https://xkeeja.github.io/react-giphy-search/
 
 # Set up
 
