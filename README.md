@@ -6,13 +6,13 @@ Guided by the [Le Wagon React Workshop](https://github.com/yannklein/react-works
 
 https://xkeeja.github.io/react-giphy-search/
 
-# Set up
+## Set up
 
 - Install NodeJS (https://nodejs.org/en/)
 - Install Yarn (https://classic.yarnpkg.com/en/docs/install/)
 - Install Webpack (https://webpack.js.org/guides/installation/)
 
-# Run locally
+## Run locally
 In terminal:
 ```
 cd ~/{your_file_path}/react-giphy-search
@@ -21,5 +21,5 @@ yarn start
 ```
 In your browser go to this url: `localhost:8080`
 
-# API Key
+## API Key
 Request your own API key [here](https://support.giphy.com/hc/en-us/articles/360020283431-Request-A-GIPHY-API-Key).
