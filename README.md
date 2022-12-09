@@ -1,7 +1,5 @@
 # Giphy Search 
 Built on the top of [Le Wagon React boilerplate](https://github.com/lewagon/react-boilerplate).
-
-## Workshop
 Guided by the [Le Wagon React Workshop](https://github.com/yannklein/react-workshop).
 
 ## Demo
@@ -24,3 +22,6 @@ yarn start
 In your browser go to this url: `localhost:8080`
 
 ```
+
+# API Key
+Request your own API key [here](https://support.giphy.com/hc/en-us/articles/360020283431-Request-A-GIPHY-API-Key).
