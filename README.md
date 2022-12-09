@@ -21,5 +21,5 @@ yarn start
 ```
 In your browser go to this url: `localhost:8080`
 
-## API Key
-Request your own API key [here](https://support.giphy.com/hc/en-us/articles/360020283431-Request-A-GIPHY-API-Key).
+## Giphy API Key
+Request your own Giphy API key [here](https://support.giphy.com/hc/en-us/articles/360020283431-Request-A-GIPHY-API-Key).
